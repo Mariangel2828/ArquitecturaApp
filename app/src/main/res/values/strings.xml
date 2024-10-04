@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ArquitecturaApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="seleccione_un_hora" />
+    <string name="seleccione_una_fecha" />
+    <string name="gr_fica_por_horas" />
+    <string name="image_per_hour" />
+    <string name="seleccionarB2" />
+    <string name="seleccionarB1" />
+    <string name="initial_text" />
+    <string name="seleccione_la_fecha_inicial" />
+    <string name="seleccione_la_fecha_final" />
+    <string name="gr_fica_por_intervalo_de_fechas" />
+    <string name="seleccionar2" />
+    <string name="seleccionar" />
+    <string name="temperatura_m_xima_alcanzada" />
+    <string name="temperatura_m_xima_alcanzada1">Temperatura máxima alcanzada</string>
+    <string name="temperatura_m_nima_alcanzada">Temperatura mínima alcanzada</string>
+    <string name="gr_fica_temperaturas_m_ximas_y_m_nimas">Gráfica temperaturas máximas y mínimas</string>
+    <string name="seleccione_la_fecha_inicial1">Seleccione la fecha inicial</string>
+    <string name="seleccione_la_fecha_final1">Seleccione la fecha final</string>
+    <string name="seleccionar1">Seleccionar</string>
+    <string name="seleccionarB">Seleccionar</string>
+    <string name="gr_fica_por_intervalo_de_fechas1">Gráfica por intervalo de fechas</string>
+    <string name="seleccione_una_fecha1">Seleccione una fecha</string>
+    <string name="seleccione_una_hora1">Seleccione una hora</string>
+    <string name="gr_fica_por_intervalos_de_horas">Gráfica por intervalos de horas</string>
+</resources>
